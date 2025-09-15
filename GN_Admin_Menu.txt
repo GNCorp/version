@@ -1,1 +1,8 @@
-1.0
+1.3.0
+[Ajouts]
+- Nouvelle commande /report
+- Menu support staff
+
+[Corrections]
+- Fix crash si joueur sans licence
+- Correction des traductions FR
